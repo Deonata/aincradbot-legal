@@ -1,0 +1,8 @@
+title: AincradBot
+description: Conditions d'Utilisation et Politique de Confidentialité
+lang: fr
+theme: jekyll-theme-cayman
+
+# Rien d'autre que les documents légaux n'est publié ici.
+exclude:
+  - README.md
