@@ -10,7 +10,7 @@ Ce document explique quelles données AincradBot traite, pourquoi, combien de te
 
 Le bot est auto-hébergé par l'équipe **AincradMC** sur un serveur privé situé dans l'Union européenne. Aucune donnée n'est confiée à un prestataire d'hébergement tiers pour le bot lui-même.
 
-**Contact :** `contact@aincradmc.fr`
+**Contact :** l'équipe d'administration du serveur Discord AincradMC — voir la [section 12](#12-contact).
 
 ## 2. Principe général
 
@@ -98,7 +98,9 @@ Certaines données transitent en mémoire vive le temps d'un traitement, puis di
 
 Conformément au Règlement général sur la protection des données (RGPD), vous disposez d'un droit d'**accès**, de **rectification**, d'**effacement**, de **limitation**, d'**opposition** et de **portabilité** de vos données.
 
-Pour l'exercer, écrivez à `contact@aincradmc.fr` ou contactez un administrateur sur le serveur Discord AincradMC, en précisant votre identifiant Discord.
+Pour l'exercer, contactez un **administrateur du serveur Discord AincradMC** en précisant votre identifiant Discord.
+
+Si vous n'avez plus accès au serveur — départ volontaire ou exclusion — une demande transmise en votre nom par un membre du serveur, ou adressée en message privé à un membre de l'équipe d'administration, sera traitée de la même manière.
 
 Une réponse vous sera apportée sous **30 jours**. Certaines demandes d'effacement peuvent être refusées lorsque la conservation est nécessaire à la sécurité du serveur — par exemple l'historique d'un bannissement pour harcèlement.
 
@@ -127,8 +129,12 @@ Cette politique peut évoluer. La date de dernière mise à jour figure en tête
 
 ## 12. Contact
 
-- **E-mail :** `contact@aincradmc.fr`
-- **Discord :** serveur AincradMC
+Le point de contact est le **serveur Discord AincradMC**. Adressez-vous :
+
+- à un **administrateur ou un modérateur**, en message privé ;
+- ou dans le **salon d'aide** du serveur.
+
+Précisez votre identifiant Discord dans votre demande. Une réponse vous sera apportée sous 30 jours.
 
 ---
 

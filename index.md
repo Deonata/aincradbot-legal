@@ -16,4 +16,4 @@ Bot Discord de la communauté **AincradMC** : modération automatique, salons vo
 
 ## Contact
 
-`contact@aincradmc.fr` — ou un administrateur sur le serveur Discord AincradMC.
+Un **administrateur ou un modérateur** du serveur Discord **AincradMC**, en message privé ou dans le salon d'aide.

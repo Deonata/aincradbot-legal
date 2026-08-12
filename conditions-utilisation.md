@@ -78,10 +78,7 @@ Les présentes conditions sont régies par le droit français. Tout litige relè
 
 ## 11. Contact
 
-Pour toute question relative aux présentes conditions :
-
-- **E-mail :** `contact@aincradmc.fr`
-- **Discord :** serveur AincradMC
+Pour toute question relative aux présentes conditions, adressez-vous à un **administrateur ou un modérateur du serveur Discord AincradMC**, en message privé ou dans le salon d'aide du serveur.
 
 ---
 
